@@ -8,8 +8,8 @@
   스페이스바 / 숫자 1~5 = 도장찍기
   방향키 = 지도의 좌측 상단 주목! 보물 찾으러 떠나기
 */
-let ver1 = false; //기본테마
-let ver2 = true; //밤?우주?테마?
+let ver1 = true; //기본테마
+let ver2 = false; //밤?우주?테마?
 
 let geo = []; //산 or 섬 생성
 let lands = []; //땅덩어리 생성
